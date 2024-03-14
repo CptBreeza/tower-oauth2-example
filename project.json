@@ -1,0 +1,15 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/gh/Byzanteam/jcli/schemas/project-file.v1.json",
+  "name": "tower_oauth_example",
+  "title": "tower_oauth_example",
+  "capabilities": [],
+  "instances": [
+    {
+      "pluginName": "tower-plugin",
+      "name": "tower",
+      "config": {
+        "clientId": "4df155ca-4496-44ba-901f-7383cfbc6bfd"
+      }
+    }
+  ]
+}

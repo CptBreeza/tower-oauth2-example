@@ -1,0 +1,11 @@
+{
+  "$schema": "https://deno.land/x/deno/cli/schemas/config-file.v1.json",
+  "compilerOptions": {
+    "strict": true,
+    "useUnknownInCatchVariables": true,
+    "noImplicitOverride": true,
+    "types": [
+      "https://cdn.jsdelivr.net/gh/Byzanteam/breeze-ts-types@v0.1.1/mod.d.ts"
+    ]
+  }
+}
